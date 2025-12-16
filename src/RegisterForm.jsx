@@ -387,6 +387,6 @@ class RegisterForm extends Component {
       </div>
     );
   }
-                            }
+}
 
-                            export default RegisterForm;
+export default RegisterForm;
